@@ -1,1 +1,1115 @@
-template
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <link>https://archive.org/</link>
+    <title>Internet Archive</title>
+    <description>The most recent additions to the Internet Archive collections.  This RSS feed is generated dynamically</description>
+    <webMaster>info@archive.org (Info Box)</webMaster>
+    <pubDate>Tue, 09 Apr 2024 22:36:34 GMT</pubDate>
+    <image>
+      <url>https://archive.org/images/glogo.png</url>
+      <title>Internet Archive</title>
+      <link>https://archive.org/</link>
+    </image>
+    <item>
+      <title>Nick | TRUMP ON ABORTION??? Trump OPPOSES Abortion Ban, Pro-Life Movement FURIOUS | America First Ep. 1315</title>
+      <ns0:title>Nick | TRUMP ON ABORTION??? Trump OPPOSES Abortion Ban, Pro-Life Movement FURIOUS | America First Ep. 1315</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-04-09&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;April 09, 2024 08:39:20 AM with 2534 Peak Viewers. URL:https://pomf2.lain.la/f/q5jiykey.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-04-09</link>
+      <guid>https://archive.org/details/nick_2024-04-09</guid>
+      <pubDate>Tue, 09 Apr 2024 08:48:45 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/q5jiykey.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/q5jiykey.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | DAILYWIRE EXPOSED??? Candace FIRED For CHRISTIAN FAITH, Whistleblowers Allege? | America First Ep. 1311</title>
+      <ns0:title>Nick | DAILYWIRE EXPOSED??? Candace FIRED For CHRISTIAN FAITH, Whistleblowers Allege? | America First Ep. 1311</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-29&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 29, 2024 09:07:57 AM with 2852 Peak Viewers. URL:https://pomf2.lain.la/f/ld4gpqs3.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-29</link>
+      <guid>https://archive.org/details/nick_2024-03-29</guid>
+      <pubDate>Fri, 29 Mar 2024 09:17:05 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/ld4gpqs3.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/ld4gpqs3.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 172: Trump Demands IMMEDIATE CEASEFIRE In Gaza, DISAVOWS ISRAEL | America First Ep. 1310</title>
+      <ns0:title>Nick | GAZA WAR DAY 172: Trump Demands IMMEDIATE CEASEFIRE In Gaza, DISAVOWS ISRAEL | America First Ep. 1310</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-28&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 28, 2024 09:11:29 AM with 3068 Peak Viewers. URL:https://pomf2.lain.la/f/4p30txh.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-28</link>
+      <guid>https://archive.org/details/nick_2024-03-28</guid>
+      <pubDate>Thu, 28 Mar 2024 09:19:30 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/4p30txh.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/4p30txh.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | RUSSIAN TERROR??? "ISIS" Strikes Moscow Theater, Putin Vows REVENGE | America First Ep. 1308</title>
+      <ns0:title>Nick | RUSSIAN TERROR??? "ISIS" Strikes Moscow Theater, Putin Vows REVENGE | America First Ep. 1308</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-27&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 27, 2024 08:17:45 AM with 3661 Peak Viewers. URL:https://pomf2.lain.la/f/8yctamzj.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-27</link>
+      <guid>https://archive.org/details/nick_2024-03-27</guid>
+      <pubDate>Wed, 27 Mar 2024 08:29:02 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/8yctamzj.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/8yctamzj.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | CHRIST IS KING: Andrew Klavan Claims Christianity Is ANTISEMITIC??? | America First Ep. 1308</title>
+      <ns0:title>Nick | CHRIST IS KING: Andrew Klavan Claims Christianity Is ANTISEMITIC??? | America First Ep. 1308</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-26&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 26, 2024 09:38:36 AM with 3094 Peak Viewers. URL:https://pomf2.lain.la/f/lv0ib4r.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-26</link>
+      <guid>https://archive.org/details/nick_2024-03-26</guid>
+      <pubDate>Tue, 26 Mar 2024 09:51:54 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/lv0ib4r.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/lv0ib4r.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | CANDACE OWENS FIRED BY DAILYWIRE | America First Ep. 1307</title>
+      <ns0:title>Nick | CANDACE OWENS FIRED BY DAILYWIRE | America First Ep. 1307</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-23&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 23, 2024 06:24:35 AM with 4177 Peak Viewers. URL:https://pomf2.lain.la/f/lu9ivvn1.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-23</link>
+      <guid>https://archive.org/details/nick_2024-03-23</guid>
+      <pubDate>Sat, 23 Mar 2024 06:41:03 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/lu9ivvn1.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/lu9ivvn1.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | HAITIAN INVASION??? Cannibal Savages PLOT IMMINENT Florida Invasion | America First Ep. 1306</title>
+      <ns0:title>Nick | HAITIAN INVASION??? Cannibal Savages PLOT IMMINENT Florida Invasion | America First Ep. 1306</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-14&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 14, 2024 08:33:19 AM with 2898 Peak Viewers. URL:https://pomf2.lain.la/f/2ywqfuaq.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-14</link>
+      <guid>https://archive.org/details/nick_2024-03-14</guid>
+      <pubDate>Thu, 14 Mar 2024 19:21:33 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/2ywqfuaq.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/2ywqfuaq.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | TIKTOK BANNED??? Congress Prepares To BAN TIKTOK NATIONWIDE | America First Ep. 1305</title>
+      <ns0:title>Nick | TIKTOK BANNED??? Congress Prepares To BAN TIKTOK NATIONWIDE | America First Ep. 1305</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-13_1&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 13, 2024 07:02:51 AM with 4295 Peak Viewers. URL:https://pomf2.lain.la/f/si31u75g.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-13_1</link>
+      <guid>https://archive.org/details/nick_2024-03-13_1</guid>
+      <pubDate>Wed, 13 Mar 2024 12:04:36 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/si31u75g.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/si31u75g.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | TIKTOK BANNED??? Congress Prepares To BAN TIKTOK NATIONWIDE | America First Ep. 1305</title>
+      <ns0:title>Nick | TIKTOK BANNED??? Congress Prepares To BAN TIKTOK NATIONWIDE | America First Ep. 1305</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-13&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 13, 2024 04:50:19 AM with 3110 Peak Viewers. URL:https://pomf2.lain.la/f/96z0hv6f.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-13</link>
+      <guid>https://archive.org/details/nick_2024-03-13</guid>
+      <pubDate>Wed, 13 Mar 2024 11:24:18 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/96z0hv6f.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/96z0hv6f.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | CANDACE OWENS DEFCON 3??? Owens EXPOSES "Unholy Rabbi" Shmuley, Jewish MAFIA | America First Ep. 1304</title>
+      <ns0:title>Nick | CANDACE OWENS DEFCON 3??? Owens EXPOSES "Unholy Rabbi" Shmuley, Jewish MAFIA | America First Ep. 1304</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-09&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 09, 2024 11:23:43 AM with 1992 Peak Viewers. URL:https://pomf2.lain.la/f/waup8xu.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-09</link>
+      <guid>https://archive.org/details/nick_2024-03-09</guid>
+      <pubDate>Sat, 09 Mar 2024 11:33:11 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/waup8xu.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/waup8xu.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | HALEY DROPS OUT: EMPEROR Trump WINS GOP Nomination For President | America First Ep. 1303</title>
+      <ns0:title>Nick | HALEY DROPS OUT: EMPEROR Trump WINS GOP Nomination For President | America First Ep. 1303</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-07&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 07, 2024 08:47:53 AM with 2723 Peak Viewers. URL:https://pomf2.lain.la/f/eyc88i8.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-07</link>
+      <guid>https://archive.org/details/nick_2024-03-07</guid>
+      <pubDate>Thu, 07 Mar 2024 12:34:02 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/eyc88i8.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/eyc88i8.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | TRUMP WON: SCOTUS Rules 9-0 In Favor Of TRUMP Eligibility In Colorado | America First Ep. 1302</title>
+      <ns0:title>Nick | TRUMP WON: SCOTUS Rules 9-0 In Favor Of TRUMP Eligibility In Colorado | America First Ep. 1302</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-05&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 05, 2024 01:34:37 PM with 2340 Peak Viewers. URL:https://pomf2.lain.la/f/w81d26lt.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-05</link>
+      <guid>https://archive.org/details/nick_2024-03-05</guid>
+      <pubDate>Tue, 05 Mar 2024 23:24:35 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/w81d26lt.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/w81d26lt.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 145: Israel-Lebanon War IMMINENT??? Biden Warns Of Spring Offensive | America First Ep. 1301</title>
+      <ns0:title>Nick | GAZA WAR DAY 145: Israel-Lebanon War IMMINENT??? Biden Warns Of Spring Offensive | America First Ep. 1301</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-03-01&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;March 01, 2024 07:44:15 AM with 3281 Peak Viewers. URL:https://pomf2.lain.la/f/sz4qpesq.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-03-01</link>
+      <guid>https://archive.org/details/nick_2024-03-01</guid>
+      <pubDate>Fri, 01 Mar 2024 07:53:06 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/sz4qpesq.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/sz4qpesq.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | ILLINOIS DISQUALIFIES TRUMP??? Trump REMOVED From 2024 Ballot By Illinois Judge | America First Ep. 1300</title>
+      <ns0:title>Nick | ILLINOIS DISQUALIFIES TRUMP??? Trump REMOVED From 2024 Ballot By Illinois Judge | America First Ep. 1300</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-29&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 29, 2024 07:40:27 AM with 3085 Peak Viewers. URL:https://pomf2.lain.la/f/y7430x8.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-29</link>
+      <guid>https://archive.org/details/nick_2024-02-29</guid>
+      <pubDate>Thu, 29 Feb 2024 07:48:03 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/y7430x8.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/y7430x8.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | MICHIGAN PRIMARY: Joe Biden Faces ARAB REVOLT, Trump DEFEATS Haley, Again | America First Ep. 1299</title>
+      <ns0:title>Nick | MICHIGAN PRIMARY: Joe Biden Faces ARAB REVOLT, Trump DEFEATS Haley, Again | America First Ep. 1299</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-28&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 28, 2024 08:02:02 AM with 3431 Peak Viewers. URL:https://pomf2.lain.la/f/fcizh4au.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-28</link>
+      <guid>https://archive.org/details/nick_2024-02-28</guid>
+      <pubDate>Wed, 28 Feb 2024 08:11:14 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/fcizh4au.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/fcizh4au.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | RIP AARON BUSHNELL: US Airman SELF IMMOLATES In Protest Of GAZA GENOCIDE | America First Ep. 1298</title>
+      <ns0:title>Nick | RIP AARON BUSHNELL: US Airman SELF IMMOLATES In Protest Of GAZA GENOCIDE | America First Ep. 1298</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-27&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 27, 2024 08:03:02 AM with 3925 Peak Viewers. URL:https://pomf2.lain.la/f/hsyyvpn.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-27</link>
+      <guid>https://archive.org/details/nick_2024-02-27</guid>
+      <pubDate>Tue, 27 Feb 2024 08:47:19 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/hsyyvpn.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/hsyyvpn.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GOOGLE HATES WHITES??? Gemini Image AI REFUSES To Display WHITE PEOPLE | America First Ep. 1297</title>
+      <ns0:title>Nick | GOOGLE HATES WHITES??? Gemini Image AI REFUSES To Display WHITE PEOPLE | America First Ep. 1297</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-24&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 24, 2024 09:06:06 AM with 3023 Peak Viewers. URL:https://pomf2.lain.la/f/j6o9h33h.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-24</link>
+      <guid>https://archive.org/details/nick_2024-02-24</guid>
+      <pubDate>Sat, 24 Feb 2024 09:18:53 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/j6o9h33h.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/j6o9h33h.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | TRUMP BANKRUPT??? NYC Fines Trump $350 MILLION In HOAX Fraud Case | America First Ep. 1296</title>
+      <ns0:title>Nick | TRUMP BANKRUPT??? NYC Fines Trump $350 MILLION In HOAX Fraud Case | America First Ep. 1296</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-22&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 22, 2024 08:14:15 AM with 3397 Peak Viewers. URL:https://pomf2.lain.la/f/xyty84o3.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-22</link>
+      <guid>https://archive.org/details/nick_2024-02-22</guid>
+      <pubDate>Thu, 22 Feb 2024 19:25:54 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/xyty84o3.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/xyty84o3.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 136: BIDENS REVENGE??? US Proposes Ceasefire In UNSC Resolution | America First Ep. 1295</title>
+      <ns0:title>Nick | GAZA WAR DAY 136: BIDENS REVENGE??? US Proposes Ceasefire In UNSC Resolution | America First Ep. 1295</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-21&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 21, 2024 09:08:56 AM with 2956 Peak Viewers. URL:https://pomf2.lain.la/f/ddgacdne.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-21</link>
+      <guid>https://archive.org/details/nick_2024-02-21</guid>
+      <pubDate>Wed, 21 Feb 2024 09:20:00 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/ddgacdne.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/ddgacdne.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 135: BIDENS REVENGE??? US Proposes Ceasefire In UNSC Resolution | America First Ep. 1295</title>
+      <ns0:title>Nick | GAZA WAR DAY 135: BIDENS REVENGE??? US Proposes Ceasefire In UNSC Resolution | America First Ep. 1295</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-20&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 20, 2024 07:10:14 AM with 2858 Peak Viewers. URL:https://pomf2.lain.la/f/oxojvvlf.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-20</link>
+      <guid>https://archive.org/details/nick_2024-02-20</guid>
+      <pubDate>Tue, 20 Feb 2024 07:16:40 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/oxojvvlf.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/oxojvvlf.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | PRESIDENT HARRIS??? Democrats PLOT To Overthrow Biden After DEMENTIA MOMENT | America First Ep. 1294</title>
+      <ns0:title>Nick | PRESIDENT HARRIS??? Democrats PLOT To Overthrow Biden After DEMENTIA MOMENT | America First Ep. 1294</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-16&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 16, 2024 08:31:24 AM with 3499 Peak Viewers. URL:https://pomf2.lain.la/f/p5frz4ut.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-16</link>
+      <guid>https://archive.org/details/nick_2024-02-16</guid>
+      <pubDate>Sat, 17 Feb 2024 01:49:59 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/p5frz4ut.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/p5frz4ut.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | RUSSIAN SPACE NUKE??? Biden Admin Briefs Congress On DESTABILIZING SPACE WEAPON | America First Ep. 1293</title>
+      <ns0:title>Nick | RUSSIAN SPACE NUKE??? Biden Admin Briefs Congress On DESTABILIZING SPACE WEAPON | America First Ep. 1293</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-15&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 15, 2024 06:46:41 AM with 4001 Peak Viewers. URL:https://pomf2.lain.la/f/oaes2zxt.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-15</link>
+      <guid>https://archive.org/details/nick_2024-02-15</guid>
+      <pubDate>Thu, 15 Feb 2024 06:57:02 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/oaes2zxt.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/oaes2zxt.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | MAYORKAS IMPEACHED??? Jewish DHS Secretary INDICTED For Open Borders Policy | America First Ep. 1292</title>
+      <ns0:title>Nick | MAYORKAS IMPEACHED??? Jewish DHS Secretary INDICTED For Open Borders Policy | America First Ep. 1292</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-14&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 14, 2024 08:11:16 AM with 3723 Peak Viewers. URL:https://pomf2.lain.la/f/rftvvo6f.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-14</link>
+      <guid>https://archive.org/details/nick_2024-02-14</guid>
+      <pubDate>Wed, 14 Feb 2024 08:59:43 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/rftvvo6f.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/rftvvo6f.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 128: Rafah Offensive Begins, EGYPT SURRENDERS | America First Ep. 1291</title>
+      <ns0:title>Nick | GAZA WAR DAY 128: Rafah Offensive Begins, EGYPT SURRENDERS | America First Ep. 1291</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-13&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 13, 2024 07:48:17 AM with 3544 Peak Viewers. URL:https://pomf2.lain.la/f/e3tzfd3a.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-13</link>
+      <guid>https://archive.org/details/nick_2024-02-13</guid>
+      <pubDate>Tue, 13 Feb 2024 07:59:37 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/e3tzfd3a.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/e3tzfd3a.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | PUTIN WON??? Tucker Carlson ANNIHILATED By Russian History Lesson | America First Ep. 1290</title>
+      <ns0:title>Nick | PUTIN WON??? Tucker Carlson ANNIHILATED By Russian History Lesson | America First Ep. 1290</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-10&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 10, 2024 07:30:38 AM with 3469 Peak Viewers. URL:https://pomf2.lain.la/f/p5nr3r86.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-10</link>
+      <guid>https://archive.org/details/nick_2024-02-10</guid>
+      <pubDate>Sat, 10 Feb 2024 07:41:00 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/p5nr3r86.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/p5nr3r86.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | BUKELE WINS: Right Wing DICTATOR of El Salvador Reelected in LANDSLIDE | America First Ep. 1289</title>
+      <ns0:title>Nick | BUKELE WINS: Right Wing DICTATOR of El Salvador Reelected in LANDSLIDE | America First Ep. 1289</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-08&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 08, 2024 10:06:38 AM with 2591 Peak Viewers. URL:https://pomf2.lain.la/f/b9j812d.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-08</link>
+      <guid>https://archive.org/details/nick_2024-02-08</guid>
+      <pubDate>Thu, 08 Feb 2024 10:14:25 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/b9j812d.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/b9j812d.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GOP IS OVER??? Ronna McDaniel RESIGNS, Mayorkas Impeachment FAILS | America First Ep. 1288</title>
+      <ns0:title>Nick | GOP IS OVER??? Ronna McDaniel RESIGNS, Mayorkas Impeachment FAILS | America First Ep. 1288</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-07&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 07, 2024 08:20:01 AM with 3707 Peak Viewers. URL:https://pomf2.lain.la/f/s5d1so7m.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-07</link>
+      <guid>https://archive.org/details/nick_2024-02-07</guid>
+      <pubDate>Wed, 07 Feb 2024 08:30:45 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/s5d1so7m.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/s5d1so7m.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | DEPORT ILHAN OMAR??? Rep. Omar SWEARS ALLEGIANCE To Somalia | America First Ep. 1287</title>
+      <ns0:title>Nick | DEPORT ILHAN OMAR??? Rep. Omar SWEARS ALLEGIANCE To Somalia | America First Ep. 1287</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-02-01&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;February 01, 2024 11:22:05 AM with 2276 Peak Viewers. URL:https://pomf2.lain.la/f/zx8yue8m.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-02-01</link>
+      <guid>https://archive.org/details/nick_2024-02-01</guid>
+      <pubDate>Thu, 01 Feb 2024 11:51:32 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/zx8yue8m.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/zx8yue8m.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 115: Israel THWARTED as Biden and Iran DEESCALATE Tensions | America First Ep. 1286</title>
+      <ns0:title>Nick | GAZA WAR DAY 115: Israel THWARTED as Biden and Iran DEESCALATE Tensions | America First Ep. 1286</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-01-31&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;January 31, 2024 09:05:25 AM with 3158 Peak Viewers. URL:https://pomf2.lain.la/f/2ayna0.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-01-31</link>
+      <guid>https://archive.org/details/nick_2024-01-31</guid>
+      <pubDate>Wed, 31 Jan 2024 09:28:16 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/2ayna0.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/2ayna0.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 114: Iran War Imminent??? US Soldiers KILLED In Jordan | America First Ep. 1285</title>
+      <ns0:title>Nick | GAZA WAR DAY 114: Iran War Imminent??? US Soldiers KILLED In Jordan | America First Ep. 1285</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-01-30&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;January 30, 2024 09:14:06 AM with 3112 Peak Viewers. URL:https://pomf2.lain.la/f/o8qf9mom.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-01-30</link>
+      <guid>https://archive.org/details/nick_2024-01-30</guid>
+      <pubDate>Tue, 30 Jan 2024 09:36:20 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/o8qf9mom.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/o8qf9mom.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | TEXAS CIVIL WAR: Feds RETREAT After Biden Deadline Passes | America First Ep. 1284</title>
+      <ns0:title>Nick | TEXAS CIVIL WAR: Feds RETREAT After Biden Deadline Passes | America First Ep. 1284</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-01-27&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;January 27, 2024 01:22:01 PM with 2545 Peak Viewers. URL:https://pomf2.lain.la/f/ct0rakpp.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-01-27</link>
+      <guid>https://archive.org/details/nick_2024-01-27</guid>
+      <pubDate>Sat, 27 Jan 2024 13:33:12 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/ct0rakpp.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/ct0rakpp.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | CIVIL WAR IMMINENT??? 25 Governors Join Texas In BORDER SHOWDOWN Against Feds | America First Ep. 1283</title>
+      <ns0:title>Nick | CIVIL WAR IMMINENT??? 25 Governors Join Texas In BORDER SHOWDOWN Against Feds | America First Ep. 1283</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-01-26&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;January 26, 2024 12:12:57 PM with 2600 Peak Viewers. URL:https://pomf2.lain.la/f/jgjt4wd3.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-01-26</link>
+      <guid>https://archive.org/details/nick_2024-01-26</guid>
+      <pubDate>Fri, 26 Jan 2024 12:25:13 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/jgjt4wd3.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/jgjt4wd3.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | CONSTITUTIONAL CRISIS??? Texas DEFIES Supreme Court, Showdown With Feds IMMINENT | America First Ep. 1282</title>
+      <ns0:title>Nick | CONSTITUTIONAL CRISIS??? Texas DEFIES Supreme Court, Showdown With Feds IMMINENT | America First Ep. 1282</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-01-25&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;January 25, 2024 08:03:53 AM with 3562 Peak Viewers. URL:https://pomf2.lain.la/f/mfziop11.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-01-25</link>
+      <guid>https://archive.org/details/nick_2024-01-25</guid>
+      <pubDate>Fri, 26 Jan 2024 00:30:33 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/mfziop11.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/mfziop11.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | DESANTIS DROPS OUT: President Trump Becomes PRESUMPTIVE Nominee, Victory IMMINENT | America First Ep. 1281</title>
+      <ns0:title>Nick | DESANTIS DROPS OUT: President Trump Becomes PRESUMPTIVE Nominee, Victory IMMINENT | America First Ep. 1281</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-01-23&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;January 23, 2024 10:29:14 AM with 2631 Peak Viewers. URL:https://pomf2.lain.la/f/afze96o.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-01-23</link>
+      <guid>https://archive.org/details/nick_2024-01-23</guid>
+      <pubDate>Tue, 23 Jan 2024 10:37:15 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/afze96o.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/afze96o.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 103: Netanyahu Declares GREATER ISRAEL "From River To Sea" | America First Ep. 1280</title>
+      <ns0:title>Nick | GAZA WAR DAY 103: Netanyahu Declares GREATER ISRAEL "From River To Sea" | America First Ep. 1280</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-01-19&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;January 19, 2024 07:04:08 AM with 4088 Peak Viewers. URL:https://pomf2.lain.la/f/9vkngzr4.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-01-19</link>
+      <guid>https://archive.org/details/nick_2024-01-19</guid>
+      <pubDate>Sat, 20 Jan 2024 02:09:23 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/9vkngzr4.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/9vkngzr4.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | IRAN-PAKISTAN WAR IMMINENT??? Pakistan BOMBS Baloch Separatists | America First Ep. 1279</title>
+      <ns0:title>Nick | IRAN-PAKISTAN WAR IMMINENT??? Pakistan BOMBS Baloch Separatists | America First Ep. 1279</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-01-18&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;January 18, 2024 07:17:03 PM with 3227 Peak Viewers. URL:https://pomf2.lain.la/f/fkr4hv05.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-01-18</link>
+      <guid>https://archive.org/details/nick_2024-01-18</guid>
+      <pubDate>Thu, 18 Jan 2024 19:25:38 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/fkr4hv05.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/fkr4hv05.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | DEBATE RECAP: Tunnel Jews EXPOSED, Secret HATRED For Christians REVEALED | America First Ep. 1277</title>
+      <ns0:title>Nick | DEBATE RECAP: Tunnel Jews EXPOSED, Secret HATRED For Christians REVEALED | America First Ep. 1277</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2024-01-13&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;January 13, 2024 11:17:20 AM with 2692 Peak Viewers. URL:https://pomf2.lain.la/f/eaqhtzj3.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2024-01-13</link>
+      <guid>https://archive.org/details/nick_2024-01-13</guid>
+      <pubDate>Sat, 13 Jan 2024 11:25:21 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/eaqhtzj3.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/eaqhtzj3.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | RIGGED ELECTION??? Colorado REMOVES TRUMP From 2024 Ballot | America First Ep. 1265</title>
+      <ns0:title>Nick | RIGGED ELECTION??? Colorado REMOVES TRUMP From 2024 Ballot | America First Ep. 1265</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-20&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 20, 2023 09:05:51 AM with 3613 Peak Viewers. URL:https://pomf2.lain.la/f/pc8bknhw.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-20</link>
+      <guid>https://archive.org/details/nick_2023-12-20</guid>
+      <pubDate>Wed, 20 Dec 2023 11:24:39 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/pc8bknhw.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/pc8bknhw.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 70: US Preparing For YEMEN WAR To Defend Israeli Shipping Route | America First Ep. 1264</title>
+      <ns0:title>Nick | GAZA WAR DAY 70: US Preparing For YEMEN WAR To Defend Israeli Shipping Route | America First Ep. 1264</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-19&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 19, 2023 08:53:24 AM with 3088 Peak Viewers. URL:https://pomf2.lain.la/f/ycvnc1q.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-19</link>
+      <guid>https://archive.org/details/nick_2023-12-19</guid>
+      <pubDate>Wed, 20 Dec 2023 09:16:39 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/ycvnc1q.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/ycvnc1q.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | CAPITOL ATTACK??? Gay Hill Staffers DEFILE the US Senate With Sexual Insurrection | America First Ep. 1264</title>
+      <ns0:title>Nick | CAPITOL ATTACK??? Gay Hill Staffers DEFILE the US Senate With Sexual Insurrection | America First Ep. 1264</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-16&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 16, 2023 11:30:54 AM with 3045 Peak Viewers. URL:https://pomf2.lain.la/f/2shuvon4.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-16</link>
+      <guid>https://archive.org/details/nick_2023-12-16</guid>
+      <pubDate>Sat, 16 Dec 2023 11:42:20 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/2shuvon4.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/2shuvon4.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | RACIST PARTY??? Boston Mayor Throws "NO WHITES ALLOWED" Holiday Party | America First Ep. 1263</title>
+      <ns0:title>Nick | RACIST PARTY??? Boston Mayor Throws "NO WHITES ALLOWED" Holiday Party | America First Ep. 1263</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-14&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 14, 2023 10:34:38 AM with 2735 Peak Viewers. URL:https://pomf2.lain.la/f/c12j11er.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-14</link>
+      <guid>https://archive.org/details/nick_2023-12-14</guid>
+      <pubDate>Thu, 14 Dec 2023 10:44:51 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/c12j11er.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/c12j11er.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 65: HAVARD UNDER ATTACK As Jews Target President Gay | America First Ep. 1262</title>
+      <ns0:title>Nick | GAZA WAR DAY 65: HAVARD UNDER ATTACK As Jews Target President Gay | America First Ep. 1262</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-13&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 13, 2023 09:17:23 AM with 3313 Peak Viewers. URL:https://pomf2.lain.la/f/cyupq2yc.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-13</link>
+      <guid>https://archive.org/details/nick_2023-12-13</guid>
+      <pubDate>Wed, 13 Dec 2023 09:28:40 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/cyupq2yc.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/cyupq2yc.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | ALEX JONES UNBANNED: Twitter Amnesty IMMINENT? | America First Ep. 1261</title>
+      <ns0:title>Nick | ALEX JONES UNBANNED: Twitter Amnesty IMMINENT? | America First Ep. 1261</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-12&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 12, 2023 06:32:15 AM with 4645 Peak Viewers. URL:https://pomf2.lain.la/f/jf115po9.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-12</link>
+      <guid>https://archive.org/details/nick_2023-12-12</guid>
+      <pubDate>Tue, 12 Dec 2023 06:40:33 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/jf115po9.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/jf115po9.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 61: Harvard APOLOGIZES For "Antisemitism" Under Pressure From Jewish Groups | America First Ep. 1260</title>
+      <ns0:title>Nick | GAZA WAR DAY 61: Harvard APOLOGIZES For "Antisemitism" Under Pressure From Jewish Groups | America First Ep. 1260</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-09&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 09, 2023 08:21:21 AM with 4303 Peak Viewers. URL:https://pomf2.lain.la/f/e86ly77.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-09</link>
+      <guid>https://archive.org/details/nick_2023-12-09</guid>
+      <pubDate>Sun, 10 Dec 2023 02:52:00 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/e86ly77.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/e86ly77.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | PRESIDENT VIVEK??? Vivek DESTROYS Nikki Haley And NAMES Great Replacement | America First Ep. 1259</title>
+      <ns0:title>Nick | PRESIDENT VIVEK??? Vivek DESTROYS Nikki Haley And NAMES Great Replacement | America First Ep. 1259</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-08&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 08, 2023 09:46:39 AM with 4032 Peak Viewers. URL:https://pomf2.lain.la/f/swl43jy7.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-08</link>
+      <guid>https://archive.org/details/nick_2023-12-08</guid>
+      <pubDate>Fri, 08 Dec 2023 09:59:02 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/swl43jy7.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/swl43jy7.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GOP Presidential Debate 4 | America First Episode 1258</title>
+      <ns0:title>Nick | GOP Presidential Debate 4 | America First Episode 1258</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-07&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 07, 2023 04:58:23 AM with 6677 Peak Viewers. URL:https://pomf2.lain.la/f/r2lw521k.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-07</link>
+      <guid>https://archive.org/details/nick_2023-12-07</guid>
+      <pubDate>Thu, 07 Dec 2023 05:14:22 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/r2lw521k.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/r2lw521k.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 59: Congress OUTLAWS "Anti-Zionism," Rep. Massie SPEAKS OUT | America First Episode 1257</title>
+      <ns0:title>Nick | GAZA WAR DAY 59: Congress OUTLAWS "Anti-Zionism," Rep. Massie SPEAKS OUT | America First Episode 1257</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-06&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 06, 2023 07:47:37 AM with 4377 Peak Viewers. URL:https://pomf2.lain.la/f/21plhqo.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-06</link>
+      <guid>https://archive.org/details/nick_2023-12-06</guid>
+      <pubDate>Thu, 07 Dec 2023 00:07:20 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/21plhqo.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/21plhqo.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 58: Jewish Billionaires CONDEMN Anti-White Harvard... FINALLY! | America First Episode 1257</title>
+      <ns0:title>Nick | GAZA WAR DAY 58: Jewish Billionaires CONDEMN Anti-White Harvard... FINALLY! | America First Episode 1257</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-05&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 05, 2023 08:14:11 AM with 4437 Peak Viewers. URL:https://pomf2.lain.la/f/f39z7mxs.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-05</link>
+      <guid>https://archive.org/details/nick_2023-12-05</guid>
+      <pubDate>Tue, 05 Dec 2023 08:38:26 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/f39z7mxs.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/f39z7mxs.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 55: ISRAEL KNEW??? Hamas Attack Plans Known To Israel For Months | America First Episode 1255</title>
+      <ns0:title>Nick | GAZA WAR DAY 55: ISRAEL KNEW??? Hamas Attack Plans Known To Israel For Months | America First Episode 1255</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-02&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 02, 2023 08:22:14 AM with 4590 Peak Viewers. URL:https://pomf2.lain.la/f/1vvb29r.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-02</link>
+      <guid>https://archive.org/details/nick_2023-12-02</guid>
+      <pubDate>Sat, 02 Dec 2023 08:42:44 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/1vvb29r.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/1vvb29r.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | DESANTIS VS NEWSOM GOVERNORS DEBATE | America First Episode 1254</title>
+      <ns0:title>Nick | DESANTIS VS NEWSOM GOVERNORS DEBATE | America First Episode 1254</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-12-01&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;December 01, 2023 04:50:23 AM with 5781 Peak Viewers. URL:https://pomf2.lain.la/f/7ycgml83.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-12-01</link>
+      <guid>https://archive.org/details/nick_2023-12-01</guid>
+      <pubDate>Fri, 01 Dec 2023 18:31:35 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/7ycgml83.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/7ycgml83.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 53: Zionist MASS SHOOTER Targets Palestinians In Vermont, Media Silent | America First Ep. 1253</title>
+      <ns0:title>Nick | GAZA WAR DAY 53: Zionist MASS SHOOTER Targets Palestinians In Vermont, Media Silent | America First Ep. 1253</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-11-29&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;November 29, 2023 07:25:54 AM with 4687 Peak Viewers. URL:https://pomf2.lain.la/f/0oo411k7.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-11-29</link>
+      <guid>https://archive.org/details/nick_2023-11-29</guid>
+      <pubDate>Wed, 29 Nov 2023 07:39:19 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/0oo411k7.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/0oo411k7.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | IRISH CIVIL WAR??? Conor McGregor Leads MASS RIOTS Against Migrant KILLER | America First Ep. 1252</title>
+      <ns0:title>Nick | IRISH CIVIL WAR??? Conor McGregor Leads MASS RIOTS Against Migrant KILLER | America First Ep. 1252</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-11-28&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;November 28, 2023 06:28:45 AM with 5247 Peak Viewers. URL:https://pomf2.lain.la/f/pmass8c.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-11-28</link>
+      <guid>https://archive.org/details/nick_2023-11-28</guid>
+      <pubDate>Tue, 28 Nov 2023 06:38:16 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/pmass8c.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/pmass8c.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | DAILYWIRE WAR: Candace Owens VS Ben Shapiro | America First Ep. 1251</title>
+      <ns0:title>Nick | DAILYWIRE WAR: Candace Owens VS Ben Shapiro | America First Ep. 1251</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-11-16&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;November 16, 2023 06:48:17 AM with 6704 Peak Viewers. URL:https://pomf2.lain.la/f/gffu9nk.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-11-16</link>
+      <guid>https://archive.org/details/nick_2023-11-16</guid>
+      <pubDate>Thu, 16 Nov 2023 06:57:21 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/gffu9nk.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/gffu9nk.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | KEVIN MCCARTHY 2.0??? Mike Johnson Allies With DEMOCRATS To Avert Shutdown | America First Ep. 1250</title>
+      <ns0:title>Nick | KEVIN MCCARTHY 2.0??? Mike Johnson Allies With DEMOCRATS To Avert Shutdown | America First Ep. 1250</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-11-15&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;November 15, 2023 06:28:51 AM with 5324 Peak Viewers. URL:https://pomf2.lain.la/f/eae2yvdb.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-11-15</link>
+      <guid>https://archive.org/details/nick_2023-11-15</guid>
+      <pubDate>Wed, 15 Nov 2023 06:38:54 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/eae2yvdb.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/eae2yvdb.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 37: Israel Planning REGIONAL WAR With Hezbollah, Says White House | America First Ep. 1249</title>
+      <ns0:title>Nick | GAZA WAR DAY 37: Israel Planning REGIONAL WAR With Hezbollah, Says White House | America First Ep. 1249</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-11-14&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;November 14, 2023 06:17:03 AM with 4884 Peak Viewers. URL:https://pomf2.lain.la/f/5t8tw05u.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-11-14</link>
+      <guid>https://archive.org/details/nick_2023-11-14</guid>
+      <pubDate>Tue, 14 Nov 2023 06:27:23 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/5t8tw05u.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/5t8tw05u.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 34: Macron Demands Israel "STOP KILLING BABIES" | America First Ep. 1248</title>
+      <ns0:title>Nick | GAZA WAR DAY 34: Macron Demands Israel "STOP KILLING BABIES" | America First Ep. 1248</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-11-11&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;November 11, 2023 08:36:23 AM with 4693 Peak Viewers. URL:https://pomf2.lain.la/f/1y9ud06.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-11-11</link>
+      <guid>https://archive.org/details/nick_2023-11-11</guid>
+      <pubDate>Sat, 11 Nov 2023 08:47:29 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/1y9ud06.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/1y9ud06.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 33: Biden Secures Humanitarian Pauses, WARNS Israel To LEAVE GAZA | America First Ep. 1247</title>
+      <ns0:title>Nick | GAZA WAR DAY 33: Biden Secures Humanitarian Pauses, WARNS Israel To LEAVE GAZA | America First Ep. 1247</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-11-10&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;November 10, 2023 07:27:53 AM with 4763 Peak Viewers. URL:https://pomf2.lain.la/f/g3t3mpq3.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-11-10</link>
+      <guid>https://archive.org/details/nick_2023-11-10</guid>
+      <pubDate>Fri, 10 Nov 2023 07:36:27 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/g3t3mpq3.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/g3t3mpq3.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | THIRD GOP PRESIDENTIAL DEBATE | America First Ep. 1246</title>
+      <ns0:title>Nick | THIRD GOP PRESIDENTIAL DEBATE | America First Ep. 1246</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-11-09&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;November 09, 2023 03:51:10 AM with 6469 Peak Viewers. URL:https://pomf2.lain.la/f/mdmrl11.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-11-09</link>
+      <guid>https://archive.org/details/nick_2023-11-09</guid>
+      <pubDate>Thu, 09 Nov 2023 04:01:34 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/mdmrl11.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/mdmrl11.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | ANTI-WHITE SHOOTING??? Trans Shooter Audrey Hale's Manifesto Leaked Online | America First Ep. 1245</title>
+      <ns0:title>Nick | ANTI-WHITE SHOOTING??? Trans Shooter Audrey Hale's Manifesto Leaked Online | America First Ep. 1245</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-11-07&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;November 07, 2023 08:10:32 AM with 4358 Peak Viewers. URL:https://pomf2.lain.la/f/ikxfaoiq.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-11-07</link>
+      <guid>https://archive.org/details/nick_2023-11-07</guid>
+      <pubDate>Tue, 07 Nov 2023 08:21:35 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/ikxfaoiq.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/ikxfaoiq.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 27: Hezbollah Chief Nasrallah Speaks And Gives Israel ULTIMATUM | America First Ep. 1243</title>
+      <ns0:title>Nick | GAZA WAR DAY 27: Hezbollah Chief Nasrallah Speaks And Gives Israel ULTIMATUM | America First Ep. 1243</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-11-03&amp;mediatype=audio&amp;collection=opensource_audio"/&gt;&lt;p&gt;November 03, 2023 06:49:34 PM with 6287 Peak Viewers. URL:https://pomf2.lain.la/f/sq5g55j3.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-11-03</link>
+      <guid>https://archive.org/details/nick_2023-11-03</guid>
+      <pubDate>Fri, 03 Nov 2023 19:02:08 GMT</pubDate>
+      <category>audio/opensource_audio</category>
+      <ns0:content url="https://pomf2.lain.la/f/sq5g55j3.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/sq5g55j3.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | WHITE GENOCIDE IMMINENT??? Robert E Lee Statue DESTROYED By Black People | America First Ep. 1242</title>
+      <ns0:title>Nick | WHITE GENOCIDE IMMINENT??? Robert E Lee Statue DESTROYED By Black People | America First Ep. 1242</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-11-02&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;November 02, 2023 09:08:54 AM with 4051 Peak Viewers. URL:https://pomf2.lain.la/f/kve0d1n0.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-11-02</link>
+      <guid>https://archive.org/details/nick_2023-11-02</guid>
+      <pubDate>Thu, 02 Nov 2023 11:49:36 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/kve0d1n0.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/kve0d1n0.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 24: INVASION OF GAZA BEGINS| America First Ep. 1241</title>
+      <ns0:title>Nick | GAZA WAR DAY 24: INVASION OF GAZA BEGINS| America First Ep. 1241</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-31&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 31, 2023 03:01:32 PM with 5899 Peak Viewers. URL:https://pomf2.lain.la/f/vy90jd2k.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-31</link>
+      <guid>https://archive.org/details/nick_2023-10-31</guid>
+      <pubDate>Tue, 31 Oct 2023 15:13:45 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/vy90jd2k.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/vy90jd2k.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 20: US BOMBS Iranian Bases In Syria, Invasion POSTPONED | America First Ep. 1241</title>
+      <ns0:title>Nick | GAZA WAR DAY 20: US BOMBS Iranian Bases In Syria, Invasion POSTPONED | America First Ep. 1241</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-27&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 27, 2023 04:38:20 PM with 6461 Peak Viewers. URL:https://pomf2.lain.la/f/nb5dxz2y.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-27</link>
+      <guid>https://archive.org/details/nick_2023-10-27</guid>
+      <pubDate>Fri, 27 Oct 2023 16:51:42 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/nb5dxz2y.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/nb5dxz2y.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | Nick Fuentes vs Alex Jones | Debating the War in Gaza</title>
+      <ns0:title>Nick | Nick Fuentes vs Alex Jones | Debating the War in Gaza</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-25_4&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 25, 2023 07:06:30 PM with 5683 Peak Viewers. URL:https://pomf2.lain.la/f/mjy0l2zb.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-25_4</link>
+      <guid>https://archive.org/details/nick_2023-10-25_4</guid>
+      <pubDate>Wed, 25 Oct 2023 19:14:31 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/mjy0l2zb.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/mjy0l2zb.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 17 | America First Ep. 1240</title>
+      <ns0:title>Nick | GAZA WAR DAY 17 | America First Ep. 1240</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-24&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 24, 2023 07:10:45 AM with 6254 Peak Viewers. URL:https://pomf2.lain.la/f/997jabyx.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-24</link>
+      <guid>https://archive.org/details/nick_2023-10-24</guid>
+      <pubDate>Tue, 24 Oct 2023 07:23:25 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/997jabyx.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/997jabyx.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 13: Biden Pledges $100 BILLION To Israel and Ukraine, INVASION IMMINENT | America First Ep. 1239</title>
+      <ns0:title>Nick | GAZA WAR DAY 13: Biden Pledges $100 BILLION To Israel and Ukraine, INVASION IMMINENT | America First Ep. 1239</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-20&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 20, 2023 06:07:55 AM with 6393 Peak Viewers. URL:https://pomf2.lain.la/f/mr25782.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-20</link>
+      <guid>https://archive.org/details/nick_2023-10-20</guid>
+      <pubDate>Fri, 20 Oct 2023 06:20:31 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/mr25782.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/mr25782.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 12: Biden Meets With Netanyahu, GENOCIDE IMMINENT??? | America First Ep. 1238</title>
+      <ns0:title>Nick | GAZA WAR DAY 12: Biden Meets With Netanyahu, GENOCIDE IMMINENT??? | America First Ep. 1238</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-19&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 19, 2023 06:20:14 AM with 6804 Peak Viewers. URL:https://pomf2.lain.la/f/72ii55pn.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-19</link>
+      <guid>https://archive.org/details/nick_2023-10-19</guid>
+      <pubDate>Thu, 19 Oct 2023 06:33:07 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/72ii55pn.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/72ii55pn.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 11: Israel BOMBS Hospital, Muslim World OUTRAGED | America First Ep. 1237</title>
+      <ns0:title>Nick | GAZA WAR DAY 11: Israel BOMBS Hospital, Muslim World OUTRAGED | America First Ep. 1237</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-18&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 18, 2023 06:06:40 AM with 7179 Peak Viewers. URL:https://pomf2.lain.la/f/zvne835g.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-18</link>
+      <guid>https://archive.org/details/nick_2023-10-18</guid>
+      <pubDate>Wed, 18 Oct 2023 06:21:27 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/zvne835g.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/zvne835g.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 10: Biden Visits Israel After Iran, Hezbollah Vow To AVENGE Gaza | America First Ep. 1236</title>
+      <ns0:title>Nick | GAZA WAR DAY 10: Biden Visits Israel After Iran, Hezbollah Vow To AVENGE Gaza | America First Ep. 1236</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-17&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 17, 2023 06:06:09 AM with 6750 Peak Viewers. URL:https://pomf2.lain.la/f/img3wfy3.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-17</link>
+      <guid>https://archive.org/details/nick_2023-10-17</guid>
+      <pubDate>Tue, 17 Oct 2023 06:22:51 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/img3wfy3.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/img3wfy3.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZAR WAR DAY 7: Israel Prepares GENOCIDAL INVASION Of Gaza IMMINENTLY | America First Ep. 1235</title>
+      <ns0:title>Nick | GAZAR WAR DAY 7: Israel Prepares GENOCIDAL INVASION Of Gaza IMMINENTLY | America First Ep. 1235</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-14&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 14, 2023 07:40:01 AM with 6853 Peak Viewers. URL:https://pomf2.lain.la/f/dok6f3o.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-14</link>
+      <guid>https://archive.org/details/nick_2023-10-14</guid>
+      <pubDate>Sat, 14 Oct 2023 13:18:52 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/dok6f3o.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/dok6f3o.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 6: President Trump DISAVOWS Israeli Crime Boss Netanyahu | America First Ep. 1234</title>
+      <ns0:title>Nick | GAZA WAR DAY 6: President Trump DISAVOWS Israeli Crime Boss Netanyahu | America First Ep. 1234</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-13&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 13, 2023 05:57:08 AM with 7121 Peak Viewers. URL:https://pomf2.lain.la/f/zukz6rng.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-13</link>
+      <guid>https://archive.org/details/nick_2023-10-13</guid>
+      <pubDate>Fri, 13 Oct 2023 06:18:05 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/zukz6rng.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/zukz6rng.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAZA WAR DAY 5: Arabs UNITE With Iran, Muslim World Rallies Against Israel??? | America First Ep. 1233</title>
+      <ns0:title>Nick | GAZA WAR DAY 5: Arabs UNITE With Iran, Muslim World Rallies Against Israel??? | America First Ep. 1233</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-12&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 12, 2023 06:44:54 AM with 6789 Peak Viewers. URL:https://pomf2.lain.la/f/f3intwu.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-12</link>
+      <guid>https://archive.org/details/nick_2023-10-12</guid>
+      <pubDate>Thu, 12 Oct 2023 19:04:43 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/f3intwu.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/f3intwu.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | ISRAEL-PALESTINE WAR, DAY 4: Hamas Allegedly DECAPITATES Babies??? | America First Ep. 1232</title>
+      <ns0:title>Nick | ISRAEL-PALESTINE WAR, DAY 4: Hamas Allegedly DECAPITATES Babies??? | America First Ep. 1232</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-11&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 11, 2023 05:43:23 AM with 6982 Peak Viewers. URL:https://pomf2.lain.la/f/tz02rrm4.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-11</link>
+      <guid>https://archive.org/details/nick_2023-10-11</guid>
+      <pubDate>Wed, 11 Oct 2023 05:55:28 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/tz02rrm4.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/tz02rrm4.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | ISRAEL-PALESTINE WAR: DAY 3, The SIEGE Of Gaza Begins | America First Ep. 1231</title>
+      <ns0:title>Nick | ISRAEL-PALESTINE WAR: DAY 3, The SIEGE Of Gaza Begins | America First Ep. 1231</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-10&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 10, 2023 06:44:30 AM with 7492 Peak Viewers. URL:https://pomf2.lain.la/f/x376stnu.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-10</link>
+      <guid>https://archive.org/details/nick_2023-10-10</guid>
+      <pubDate>Tue, 10 Oct 2023 12:06:14 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/x376stnu.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/x376stnu.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | LIBERAL ACTIVIST KILLED??? Ryan Carson STABBED In NYC By Black MANIAC | America First Episode 1230</title>
+      <ns0:title>Nick | LIBERAL ACTIVIST KILLED??? Ryan Carson STABBED In NYC By Black MANIAC | America First Episode 1230</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-05&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 05, 2023 08:11:01 AM with 4442 Peak Viewers. URL:https://pomf2.lain.la/f/k5t62qjj.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-05</link>
+      <guid>https://archive.org/details/nick_2023-10-05</guid>
+      <pubDate>Thu, 05 Oct 2023 23:48:23 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/k5t62qjj.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/k5t62qjj.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | MCCARTHY REMOVED: GAETZ DEFEATS MCCARTHY WITH HISTORIC MOTION TO VACATE| America First Episode 1229</title>
+      <ns0:title>Nick | MCCARTHY REMOVED: GAETZ DEFEATS MCCARTHY WITH HISTORIC MOTION TO VACATE| America First Episode 1229</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-04&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 04, 2023 07:01:34 AM with 5805 Peak Viewers. URL:https://pomf2.lain.la/f/ol8r1lh.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-04</link>
+      <guid>https://archive.org/details/nick_2023-10-04</guid>
+      <pubDate>Wed, 04 Oct 2023 07:15:32 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/ol8r1lh.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/ol8r1lh.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GAETZ EXPELLED??? McCarthy and Gaetz At WAR After FAILED SHUTDOWN | America First Episode 1228</title>
+      <ns0:title>Nick | GAETZ EXPELLED??? McCarthy and Gaetz At WAR After FAILED SHUTDOWN | America First Episode 1228</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-10-03&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;October 03, 2023 07:23:07 AM with 4717 Peak Viewers. URL:https://pomf2.lain.la/f/chgf47e0.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-10-03</link>
+      <guid>https://archive.org/details/nick_2023-10-03</guid>
+      <pubDate>Tue, 03 Oct 2023 07:34:24 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/chgf47e0.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/chgf47e0.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GOVERNMENT SHUTDOWN??? GOP PLAYING GAMES While AMERICA BURNS | America First Episode 1227</title>
+      <ns0:title>Nick | GOVERNMENT SHUTDOWN??? GOP PLAYING GAMES While AMERICA BURNS | America First Episode 1227</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-30&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;September 30, 2023 07:49:09 AM with 4558 Peak Viewers. URL:https://pomf2.lain.la/f/fpxtxmc.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-30</link>
+      <guid>https://archive.org/details/nick_2023-09-30</guid>
+      <pubDate>Sat, 30 Sep 2023 07:59:53 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/fpxtxmc.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/fpxtxmc.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | ELON MEETS SHAPIRO: X Director BEGS Jewish Group For MERCY After BAN ADL CAMPAIGN | America First Episode 1226</title>
+      <ns0:title>Nick | ELON MEETS SHAPIRO: X Director BEGS Jewish Group For MERCY After BAN ADL CAMPAIGN | America First Episode 1226</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-29&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;September 29, 2023 09:53:51 AM with 3560 Peak Viewers. URL:https://pomf2.lain.la/f/9vw6u2h0.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-29</link>
+      <guid>https://archive.org/details/nick_2023-09-29</guid>
+      <pubDate>Fri, 29 Sep 2023 10:05:23 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/9vw6u2h0.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/9vw6u2h0.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | SECOND GOP PRESIDENTIAL DEBATE</title>
+      <ns0:title>Nick | SECOND GOP PRESIDENTIAL DEBATE</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-28&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;September 28, 2023 03:39:36 AM with 7453 Peak Viewers. URL:https://pomf2.lain.la/f/866qwj0.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-28</link>
+      <guid>https://archive.org/details/nick_2023-09-28</guid>
+      <pubDate>Thu, 28 Sep 2023 03:52:50 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/866qwj0.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/866qwj0.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | ADL REVENGE??? Jewish Group Calls On Apple To DESTROY TWITTER | America First Ep. 1224</title>
+      <ns0:title>Nick | ADL REVENGE??? Jewish Group Calls On Apple To DESTROY TWITTER | America First Ep. 1224</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-27&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;September 27, 2023 05:25:43 AM with 5229 Peak Viewers. URL:https://pomf2.lain.la/f/3zgjcgcf.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-27</link>
+      <guid>https://archive.org/details/nick_2023-09-27</guid>
+      <pubDate>Wed, 27 Sep 2023 05:34:29 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/3zgjcgcf.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/3zgjcgcf.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | FAKE GOVERNMENT SHUTDOWN??? Why The Shutdown Is A PSYOP By US Deep State | America First Ep. 1223</title>
+      <ns0:title>Nick | FAKE GOVERNMENT SHUTDOWN??? Why The Shutdown Is A PSYOP By US Deep State | America First Ep. 1223</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-26&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;September 26, 2023 10:31:48 AM with 2673 Peak Viewers. URL:https://pomf2.lain.la/f/duc17x8j.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-26</link>
+      <guid>https://archive.org/details/nick_2023-09-26</guid>
+      <pubDate>Tue, 26 Sep 2023 10:41:22 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/duc17x8j.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/duc17x8j.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | MIGRANT INVASION: Biden LEGALIZES MILLIONS Of Venezuelan Refugees | America First Ep. 1222</title>
+      <ns0:title>Nick | MIGRANT INVASION: Biden LEGALIZES MILLIONS Of Venezuelan Refugees | America First Ep. 1222</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-22&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;September 22, 2023 05:41:40 AM with 5756 Peak Viewers. URL:https://pomf2.lain.la/f/9b31lbm.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-22</link>
+      <guid>https://archive.org/details/nick_2023-09-22</guid>
+      <pubDate>Fri, 22 Sep 2023 05:54:17 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/9b31lbm.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/9b31lbm.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | RUSSELL BRAND CENSORED??? UK ORDERS Rumble To BAN Accused Rapist | America First Ep. 1221</title>
+      <ns0:title>Nick | RUSSELL BRAND CENSORED??? UK ORDERS Rumble To BAN Accused Rapist | America First Ep. 1221</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-21&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;September 21, 2023 05:41:47 AM with 5224 Peak Viewers. URL:https://pomf2.lain.la/f/aju89ug6.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-21</link>
+      <guid>https://archive.org/details/nick_2023-09-21</guid>
+      <pubDate>Thu, 21 Sep 2023 06:05:59 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/aju89ug6.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/aju89ug6.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | GOVERNMENT SHUTDOWN IMMINENT??? House GOP Threatens To DESTROY McCarthy | America First Ep. 1220</title>
+      <ns0:title>Nick | GOVERNMENT SHUTDOWN IMMINENT??? House GOP Threatens To DESTROY McCarthy | America First Ep. 1220</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-20&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;September 20, 2023 06:09:16 AM with 5442 Peak Viewers. URL:https://pomf2.lain.la/f/ingplqi8.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-20</link>
+      <guid>https://archive.org/details/nick_2023-09-20</guid>
+      <pubDate>Wed, 20 Sep 2023 07:00:53 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/ingplqi8.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/ingplqi8.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | RUSSELL BRAND #ME TOO??? ACCUSED OF RAPE By Four Women In UK Press | America First Ep. 1219</title>
+      <ns0:title>Nick | RUSSELL BRAND #ME TOO??? ACCUSED OF RAPE By Four Women In UK Press | America First Ep. 1219</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-19_1&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;9/19/2023 5:56:50 AM with 4822 Peak Viewers. URL:https://pomf2.lain.la/f/kwedw4wk.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-19_1</link>
+      <guid>https://archive.org/details/nick_2023-09-19_1</guid>
+      <pubDate>Tue, 19 Sep 2023 06:09:45 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/kwedw4wk.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/kwedw4wk.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | RUSSELL BRAND #ME TOO??? ACCUSED OF RAPE By Four Women In UK Press | America First Ep. 1219</title>
+      <ns0:title>Nick | RUSSELL BRAND #ME TOO??? ACCUSED OF RAPE By Four Women In UK Press | America First Ep. 1219</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-19&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;9/19/2023 4:40:42 AM with 5503 Peak Viewers. URL:https://pomf2.lain.la/f/o13o72hg.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-19</link>
+      <guid>https://archive.org/details/nick_2023-09-19</guid>
+      <pubDate>Tue, 19 Sep 2023 05:09:49 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/o13o72hg.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/o13o72hg.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | TWITTER BAN WAVE??? Thousands Banned After ADL-Aligned Group DEMANDS Censorship | America First Ep. 1218</title>
+      <ns0:title>Nick | TWITTER BAN WAVE??? Thousands Banned After ADL-Aligned Group DEMANDS Censorship | America First Ep. 1218</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-16&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;09-16-2023 01:08:16 PM with 3668 Peak Viewers. URL:https://pomf2.lain.la/f/53y329sd.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-16</link>
+      <guid>https://archive.org/details/nick_2023-09-16</guid>
+      <pubDate>Tue, 19 Sep 2023 01:43:34 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/53y329sd.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/53y329sd.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | BIDEN IMPEACHMENT??? Gaetz FORCES McCarthy To Initiate BIDEN IMPEACHMENT | America First Ep. 1215</title>
+      <ns0:title>Nick | BIDEN IMPEACHMENT??? Gaetz FORCES McCarthy To Initiate BIDEN IMPEACHMENT | America First Ep. 1215</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-13&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;09-13-2023 07:47:31 AM with 4471 Peak Viewers. URL:https://pomf2.lain.la/f/ejlk0m5m.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-13</link>
+      <guid>https://archive.org/details/nick_2023-09-13</guid>
+      <pubDate>Tue, 19 Sep 2023 01:34:09 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/ejlk0m5m.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/ejlk0m5m.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | MASS DEPORTATIONS IMMINENT??? Judge Rules DACA Program TOTALLY ILLEGAL | America First Ep. 1217</title>
+      <ns0:title>Nick | MASS DEPORTATIONS IMMINENT??? Judge Rules DACA Program TOTALLY ILLEGAL | America First Ep. 1217</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-15&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;9/15/2023 10:13:53 AM with 3242 Peak Viewers. URL:https://pomf2.lain.la/f/1k36p0w.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-15</link>
+      <guid>https://archive.org/details/nick_2023-09-15</guid>
+      <pubDate>Fri, 15 Sep 2023 10:30:20 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/1k36p0w.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/1k36p0w.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | MITT ROMNEY RETIRED??? Mormon LOSER FORCED To Resign By BOSS TRUMP | America First Ep. 1216</title>
+      <ns0:title>Nick | MITT ROMNEY RETIRED??? Mormon LOSER FORCED To Resign By BOSS TRUMP | America First Ep. 1216</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-14&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;9/14/2023 5:34:45 AM with 5069 Peak Viewers. URL:https://pomf2.lain.la/f/3swwew5k.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-14</link>
+      <guid>https://archive.org/details/nick_2023-09-14</guid>
+      <pubDate>Thu, 14 Sep 2023 05:42:58 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/3swwew5k.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/3swwew5k.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | 9/11 TRUTH EXPOSED??? ISRAELI INTELLIGENCE RESPONSIBLE | America First Ep. 1214</title>
+      <ns0:title>Nick | 9/11 TRUTH EXPOSED??? ISRAELI INTELLIGENCE RESPONSIBLE | America First Ep. 1214</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-12&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;9/12/2023 7:38:09 AM with 5747 Peak Viewers. URL:https://pomf2.lain.la/f/tve57grt.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-12</link>
+      <guid>https://archive.org/details/nick_2023-09-12</guid>
+      <pubDate>Tue, 12 Sep 2023 12:44:21 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/tve57grt.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/tve57grt.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | INTERNET CENSORSHIP IS OVER??? Federal Court BANS BIG TECH CENSORSHIP | America First Ep. 1213</title>
+      <ns0:title>Nick | INTERNET CENSORSHIP IS OVER??? Federal Court BANS BIG TECH CENSORSHIP | America First Ep. 1213</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-09&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;9/9/2023 6:49:46 AM with 5875 Peak Viewers. URL:https://pomf2.lain.la/f/1yd4fb34.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-09</link>
+      <guid>https://archive.org/details/nick_2023-09-09</guid>
+      <pubDate>Sat, 09 Sep 2023 09:14:57 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/1yd4fb34.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/1yd4fb34.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | BANKRUPT ADL??? Elon Musk Announces BILLION DOLLAR LAWSUIT Against ADL | America First Ep. 1210</title>
+      <ns0:title>Nick | BANKRUPT ADL??? Elon Musk Announces BILLION DOLLAR LAWSUIT Against ADL | America First Ep. 1210</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-05&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;09-05-2023 11:13:55 AM with 4196 Peak Viewers. URL:https://pomf2.lain.la/f/ke0wb7jw.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-05</link>
+      <guid>https://archive.org/details/nick_2023-09-05</guid>
+      <pubDate>Fri, 08 Sep 2023 01:57:43 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/ke0wb7jw.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/ke0wb7jw.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | TRUMP BARRED FROM RUNNING??? Lawsuit Seeks To REMOVE Trump From ALL BALLOTS | America First Ep. 1212</title>
+      <ns0:title>Nick | TRUMP BARRED FROM RUNNING??? Lawsuit Seeks To REMOVE Trump From ALL BALLOTS | America First Ep. 1212</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-07&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;9/7/2023 10:43:39 AM with 3483 Peak Viewers. URL:https://pomf2.lain.la/f/4srdn8nl.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-07</link>
+      <guid>https://archive.org/details/nick_2023-09-07</guid>
+      <pubDate>Thu, 07 Sep 2023 11:43:12 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/4srdn8nl.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/4srdn8nl.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | PROUDBOYS DESTROYED??? Enrique Tarrio Receives LIFE SENTENCE For J6 | America First Ep. 1211</title>
+      <ns0:title>Nick | PROUDBOYS DESTROYED??? Enrique Tarrio Receives LIFE SENTENCE For J6 | America First Ep. 1211</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-06&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;9/6/2023 11:40:17 AM with 4121 Peak Viewers. URL:https://pomf2.lain.la/f/f81jvlbf.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-06</link>
+      <guid>https://archive.org/details/nick_2023-09-06</guid>
+      <pubDate>Wed, 06 Sep 2023 12:22:34 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/f81jvlbf.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/f81jvlbf.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | VIVEK CANCELLED??? Israel Lobby ATTACKS Vivek After Statement On Foreign Aid | America First Ep. 1209</title>
+      <ns0:title>Nick | VIVEK CANCELLED??? Israel Lobby ATTACKS Vivek After Statement On Foreign Aid | America First Ep. 1209</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-02&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;9/2/2023 11:56:30 AM with 3834 Peak Viewers. URL:https://pomf2.lain.la/f/oeiccvqs.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-02</link>
+      <guid>https://archive.org/details/nick_2023-09-02</guid>
+      <pubDate>Sat, 02 Sep 2023 12:07:26 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/oeiccvqs.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/oeiccvqs.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | POLITICAL PRISONER?? Proudboy Joe Biggs Receives 17-YEAR PRISON SENTENCE | America First Ep. 1208</title>
+      <ns0:title>Nick | POLITICAL PRISONER?? Proudboy Joe Biggs Receives 17-YEAR PRISON SENTENCE | America First Ep. 1208</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-09-01&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;9/1/2023 6:47:20 AM with 5626 Peak Viewers. URL:https://pomf2.lain.la/f/qtezy0ob.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-09-01</link>
+      <guid>https://archive.org/details/nick_2023-09-01</guid>
+      <pubDate>Fri, 01 Sep 2023 07:10:37 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/qtezy0ob.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/qtezy0ob.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | ANDREW TATE EXPOSED??? Jewish "Wizard" Leads "War Room" Pimp Cult | America First Ep. 1207</title>
+      <ns0:title>Nick | ANDREW TATE EXPOSED??? Jewish "Wizard" Leads "War Room" Pimp Cult | America First Ep. 1207</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-08-31&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;8/31/2023 10:15:42 AM with 4251 Peak Viewers. URL:https://pomf2.lain.la/f/cytswlhn.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-08-31</link>
+      <guid>https://archive.org/details/nick_2023-08-31</guid>
+      <pubDate>Thu, 31 Aug 2023 10:31:25 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/cytswlhn.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/cytswlhn.mp3" type="audio/mpeg" length="111111" />
+    </item>
+    <item>
+      <title>Nick | ELECTION INTERFERENCE??? OUTRAGEOUS, Trump Trial Date Set For SUPER TUESDAY | America First Ep. 1206</title>
+      <ns0:title>Nick | ELECTION INTERFERENCE??? OUTRAGEOUS, Trump Trial Date Set For SUPER TUESDAY | America First Ep. 1206</ns0:title>
+      <description>&lt;img width="160" style="padding-right:3px;float:left;" src="https://archive.org/services/get-item-image.php?identifier=nick_2023-08-30&amp;mediatype=audio&amp;collection=KANYEcode"/&gt;&lt;p&gt;8/30/2023 7:05:53 AM with 5426 Peak Viewers. URL:https://pomf2.lain.la/f/pgv735h.mp3.&lt;/p&gt;&lt;p&gt;This item has files of the following types: Archive BitTorrent, Item Tile, Metadata, PNG, Spectrogram, VBR MP3&lt;/p&gt;</description>
+      <link>https://archive.org/details/nick_2023-08-30</link>
+      <guid>https://archive.org/details/nick_2023-08-30</guid>
+      <pubDate>Wed, 30 Aug 2023 07:39:25 GMT</pubDate>
+      <category>audio/KANYEcode</category>
+      <ns0:content url="https://pomf2.lain.la/f/pgv735h.mp3" type="audio/mpeg" medium="audio" expression="full" isDefault="true" bitrate="128" />
+      <enclosure url="https://pomf2.lain.la/f/pgv735h.mp3" type="audio/mpeg" length="111111" />
+    </item>
+  </channel>
+</rss>
